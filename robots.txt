@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://fcariasirrigation.com/sitemap.xml
